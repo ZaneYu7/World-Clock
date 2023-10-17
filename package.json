@@ -13,7 +13,7 @@
     "click-to-react-component": "^1.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "styled-components": "^6.0.8"
+    "styled-components": "^5.3.9"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
